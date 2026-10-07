@@ -333,6 +333,7 @@
 		000000000000000111000000 /* Debug configuration for PBXNativeTarget "SwiftTranscribe" */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "-";
 				CODE_SIGN_STYLE = Automatic;
 				CREATE_INFOPLIST_SECTION_IN_BINARY = YES;
 				DEVELOPMENT_TEAM = 832FW23SZD;
@@ -354,6 +355,7 @@
 		000000000000000112000000 /* Release configuration for PBXNativeTarget "SwiftTranscribe" */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "-";
 				CODE_SIGN_STYLE = Automatic;
 				CREATE_INFOPLIST_SECTION_IN_BINARY = YES;
 				DEVELOPMENT_TEAM = 832FW23SZD;
